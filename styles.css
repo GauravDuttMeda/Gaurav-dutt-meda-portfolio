@@ -1,0 +1,133 @@
+/* Base Typography and Layout */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #ffffff;
+  color: #1a1a1a;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  color: #0f172a; /* Slate */
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  border-bottom: 2px solid #e2e8f0;
+  padding-bottom: 0.25rem;
+}
+
+/* Hero Section */
+.hero {
+  text-align: center;
+  background-color: #0f172a;
+  color: #f1f5f9;
+  padding: 4rem 1rem;
+}
+
+.hero .profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  object-fit: cover;
+  border: 3px solid #f1f5f9;
+  margin-bottom: 1.5rem;
+}
+
+.hero a {
+  color: #38bdf8;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+/* Card Sections */
+.card {
+  background-color: #f8fafc;
+  margin: 2rem auto;
+  padding: 2rem;
+  border-radius: 12px;
+  max-width: 800px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.card h2 {
+  color: #0f172a;
+}
+
+.card ul {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+}
+
+.card p {
+  margin-top: 0.75rem;
+}
+
+/* Button */
+.button {
+  display: inline-block;
+  background-color: #0f172a;
+  color: #f1f5f9;
+  padding: 12px 24px;
+  font-weight: bold;
+  border-radius: 6px;
+  text-decoration: none;
+  margin-top: 1rem;
+}
+
+.button:hover {
+  background-color: #1e293b;
+  color: #e0f2fe;
+}
+
+/* Map Embed Responsive */
+iframe {
+  border: 0;
+  border-radius: 8px;
+  margin-top: 1rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .card {
+    margin: 1rem;
+    padding: 1.5rem;
+  }
+
+  .hero h1 {
+    font-size: 2rem;
+  }
+
+  .hero .profile-pic {
+    width: 120px;
+    height: 120px;
+  }
+}
+
+/* Print Styling */
+@media print {
+  .hero, .button, .map {
+    display: none !important;
+  }
+
+  .card {
+    box-shadow: none !important;
+    border: none !important;
+    margin: 0 !important;
+    padding: 1rem !important;
+  }
+
+  div[style*="page-break-after"] {
+    page-break-after: always;
+  }
+}
+
