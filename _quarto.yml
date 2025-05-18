@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  title: "Gaurav Dutt Meda – Portfolio"
   navbar:
     left:
       - text: Home
@@ -13,7 +14,7 @@ website:
       - text: Skills
         href: skills.qmd
       - text: Leadership
-        href: "Leadership & community service.qmd"
+        href: "Leadership & community service.qmd"  
       - text: Contact
         href: contact.qmd
 
@@ -26,5 +27,8 @@ format:
     theme: cosmo
     toc: true
     css: styles.css
+    title-block-style: none
+    title-block-banner: false
+
 
 
