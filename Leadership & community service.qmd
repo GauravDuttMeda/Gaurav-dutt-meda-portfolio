@@ -1,0 +1,14 @@
+# Leadership, Community Service {#leadership-community-service}
+
+<div class="card">
+  <h2>Leadership</h2>
+  <p><strong>HR Team Lead – College Festivals:</strong> Led the HR and coordination team for multiple intra-college fests, overseeing volunteer management, event staffing, and conflict resolution. Developed strong leadership, communication, and organizational skills.</p>
+  <p><strong>Model United Nations (MUN) Delegate:</strong> Participated in MUN conferences, representing nations in simulated UN sessions. Honed diplomacy, research, and public speaking skills through debate and negotiation.</p>
+
+  <h2>Community Service</h2>
+  <p><strong>NSS Member – National Service Scheme (3 Years):</strong> Actively involved in rural outreach programs, sanitation drives, and educational awareness campaigns. Demonstrated commitment to social responsibility and community development through consistent service.</p>
+</div>
+
+<div style="page-break-after: always;"></div>
+
+---

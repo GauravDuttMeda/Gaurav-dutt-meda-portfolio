@@ -1,0 +1,33 @@
+# Skills & Certifications {#skills--certifications}
+
+<div class="card">
+  <h2>Certifications</h2>
+  <ul>
+    <li><strong>AWS Certified Cloud Practitioner (2024–2027)</strong><br>Validates foundational knowledge of AWS cloud concepts, services, security, billing, and global infrastructure. Demonstrates ability to articulate the value of AWS Cloud and navigate core services for technical and non-technical use cases.</li>
+
+    - AWS Certified Cloud Practitioner [(Link)](https://www.credly.com/badges/b8d33964-2bfa-4c4d-8c7b-3bf1bb137645/public_url)
+
+
+    <li><strong>Python for Data Science – IBM (Sep 2024)</strong><br>Focused on data handling, visualization, and machine learning basics using Python. Built hands-on projects involving Pandas, Numpy, and data visualization tools to analyze and model real-world datasets.</li>
+
+    - Python for Data Science – IBM [(Link)](https://www.credly.com/badges/a97c737b-9521-4642-b7bd-119a238d8921/public_url)
+
+    <li><strong>Certified Digital Marketing Associate – DMI (Jun 2024)</strong><br>Covers digital marketing fundamentals including SEO, PPC, email marketing, and analytics. Certified by the Digital Marketing Institute, showcasing competence in designing and managing online campaigns.</li>
+
+    - AWS Certified Cloud Practitioner [(Link)](https://www.credly.com/badges/b8d33964-2bfa-4c4d-8c7b-3bf1bb137645/public_url) 
+
+  </ul>
+
+  <h2>Technical Skills</h2>
+  <ul>
+    <li><strong>AWS (Amazon Web Services):</strong> Hands-on experience configuring EC2, RDS, VPC, and S3 to build secure, scalable, and cost-effective cloud applications.</li>
+    <li><strong>Python for Data Analytics:</strong> Skilled in using Python for data cleaning, visualization, and machine learning with libraries such as Pandas, Matplotlib, and Scikit-learn. Applied to real business problems like credit risk modeling.</li>
+    <li><strong>Tableau:</strong> Proficient in creating dynamic dashboards and visual stories to convey key insights. Used for turning complex datasets into clear, decision-oriented visuals for stakeholders.</li>
+  </ul>
+</div>
+
+<div style="page-break-after: always;"></div>
+
+---
+
+

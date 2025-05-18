@@ -1,0 +1,37 @@
+# Projects {#projects}
+
+<div class="card">
+  <h2>Customer Credit Prediction – Machine Learning</h2>
+  <p><strong>Tools:</strong> Python, Scikit-learn, Pandas, Matplotlib<br><strong>Domain:</strong> Financial Analytics</p>
+  <ul>
+    <li>Developed a credit risk classification model using machine learning techniques.</li>
+    <li>Performed EDA to uncover patterns and correlations.</li>
+    <li>Cleaned and preprocessed data, handling missing values and encoding categorical variables.</li>
+    <li>Engineered features and defined the problem as predicting credit risk levels (Low/Medium/High).</li>
+    <li>Trained and evaluated models including Logistic Regression and Random Forest, achieving ~85% accuracy.</li>
+    <li>Identified key predictive features and interpreted business implications.</li>
+  </ul>
+  <p><strong>Skills:</strong> Data analysis, model evaluation, feature engineering, classification modeling.</p>
+
+  <h2>Digital Community Platform – AWS Cloud Implementation</h2>
+  <p><strong>Tools:</strong> AWS (EC2, RDS, VPC, S3), MySQL<br><strong>Domain:</strong> Cloud Computing</p>
+  <ul>
+    <li>Designed and deployed a cloud-based platform for a coffee shop’s online community.</li>
+    <li>Assessed AWS services for scalability, cost-efficiency, and security.</li>
+    <li>Configured VPC, launched EC2 instances, and set up RDS with MySQL for dynamic data storage.</li>
+    <li>Developed and connected a sample web app to demonstrate platform functionality.</li>
+    <li>Estimated AWS costs for text, image, and video data with IOPS considerations.</li>
+    <li>Documented setup steps and addressed implementation challenges.</li>
+  </ul>
+  <p><strong>Skills:</strong> Cloud architecture, AWS service integration, database setup, cost analysis.</p>
+</div>
+---
+
+### 📥 Downloadable Project Files
+
+- 🔗 [Credit Prediction – Machine Learning Presentation (PPTX)](credit_prediction_project.pptx){download=true}
+- 🔗 [AWS Cloud Implementation – BUSI 653 Report (DOCX)](aws_cloud_project.docx){download=true}
+
+<div style="page-break-after: always;"></div>
+
+---

@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Resume
+        href: resume.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Skills
+        href: skills.qmd
+      - text: Leadership
+        href: "Leadership & community service.qmd"
+      - text: Contact
+        href: contact.qmd
+
+resources:
+  - credit_prediction_project.pptx
+  - aws_cloud_project.docx
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    css: styles.css
+
+

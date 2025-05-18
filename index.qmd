@@ -1,0 +1,29 @@
+---
+title: "Home"
+---
+
+<div class="hero">
+  <img src="headshot.jpg" alt="Gaurav Dutt Meda" class="profile-pic" />
+
+  <h1 style="font-size: 2.5rem; font-weight: 700; margin: 1rem 0; color: #ffffff;">
+    Gaurav Dutt Meda
+  </h1>
+
+  <p style="font-size: 1.25rem; font-weight: 600;">
+    MBA Candidate | Human Resources & Business Analytics
+  </p>
+
+  <p style="font-size: 1.1rem;">
+    📍 Vancouver, BC
+  </p>
+
+  <a href="https://linkedin.com/in/gaurav-dutt-meda" target="_blank">LinkedIn</a>
+</div>
+<div class="card">
+  <h2>About Me</h2>
+  <p>
+    MBA student with 2.3 years of HR Analyst experience, seeking entry-level roles in HR and recruitment. 
+    Skilled in HR analytics and data management, with a strong interest in organizational culture and market trends. 
+    Committed to continuous learning and contributing meaningfully to HR functions.
+  </p>
+</div>

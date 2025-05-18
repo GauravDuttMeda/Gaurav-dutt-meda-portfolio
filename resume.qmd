@@ -1,0 +1,60 @@
+# Resume {#resume}
+
+<p>
+  <a href="Gaurav_Dutt_Meda_Resume.pdf" download class="button">📄 Download My Resume</a>
+</p>
+
+<div class="card">
+  <h2>Summary</h2>
+  <p>A current MBA student with 2.3 years of experience as an HR Analyst, actively seeking entry-level HR and recruiting positions. With a robust foundation in HR analytics and data management, I am keen to expand my understanding of organizational culture and market dynamics. My analytical skills and ongoing academic pursuits enable me to contribute to HR functions effectively. Dedicated to continuous professional development, I am eager to gain insights into various HR aspects and significantly contribute to the industry.</p>
+
+  <h2>Skills</h2>
+  <ul>
+    <li>Recruitment Strategies</li>
+    <li>Payroll Administration</li>
+    <li>Diversity and Inclusion</li>
+    <li>Talent management</li>
+    <li>Candidate Sourcing</li>
+    <li>Background Checks</li>
+    <li>Microsoft Excel</li>
+    <li>Tableau</li>
+    <li>Application management(ATS)</li>
+    <li>Data Management</li>
+    <li>Python</li>
+    <li>SQL</li>
+  </ul>
+
+  <h2>Experience</h2>
+  <p><strong>Capgemini Technology Services India Limited</strong> – Sr HR Analyst (Sep 2021 – Oct 2023)<br>Bangalore, Karnataka, India</p>
+  <ul>
+    <li>Spearheaded full-cycle recruitment for high-volume and senior-level roles, optimizing hiring processes to achieve a 20% reduction in time-to-hire.</li>
+    <li>Partnered with hiring managers to refine job postings and implement targeted sourcing strategies, resulting in a 15% increase in candidate quality.</li>
+    <li>Managed candidate inquiries and conducted thorough reference and criminal background checks to maintain compliance and high recruitment standards.</li>
+    <li>Facilitated new hire onboarding, including paperwork completion and orientation presentations, to ensure a smooth transition for new employees.</li>
+    <li>Leveraged advanced data analytics tools, including Microsoft Excel and Tableau, to analyze and manage extensive datasets, driving strategic decision-making.</li>
+    <li>Created and maintained comprehensive candidate tracking systems, ensuring accuracy and efficiency in talent acquisition operations</li>
+  </ul>
+
+  <h2>Education</h2>
+  <ul>
+    <li><strong>MBA:</strong> Human Resources & Business Analytics – University Canada West, Vancouver, BC (Expected June 2025)</li>
+    <li><strong>BBA:</strong> Business Analytics – Kristu Jayanti College, Bangalore, India (2018–2021)</li>
+    <li><strong>High School:</strong> Bhasyam Public School, Rajahmundry, India (2015–2016)</li>
+  </ul>
+
+  <h2>Certifications</h2>
+  <ul>
+    <li>AWS Certified Cloud Practitioner, AWS (Dec 2024 – Dec 2027)</li>
+    <li>Python for Data Science, IBM (Sep 2024)</li>
+    <li>Certified Digital Marketing Associate, Digital Marketing Institute (Jun 2024)</li>
+  </ul>
+
+  <h2>Profiles</h2>
+  <p><a href="https://www.linkedin.com/in/gaurav-dutt-meda" target="_blank">www.linkedin.com/in/gaurav-dutt-meda</a></p>
+</div>
+
+<div style="page-break-after: always;"></div>
+
+---
+
+
